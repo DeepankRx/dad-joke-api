@@ -1,0 +1,39 @@
+.center {
+    width:100%; margin:0 auto;
+    top :200px;
+    height: 100%;
+  }
+
+  .button {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    border-radius: 30px;
+  }
+  
+  .button:hover {
+      border:5px dotted rgb(184, 233, 8);
+    background-color: #f566a9;
+    color: white;
+    font-size: 45px;
+    cursor: pointer;
+  }
+  h1 {
+    font-family: Verdana, sans-serif;
+    color: rgb(47, 196, 10);
+  }
+  h1:hover {
+    font-family: Verdana, sans-serif;
+    color: rgb(10, 190, 196);
+    font-size: 100px;
+  }
+  strong{
+      font-size:xx-large;
+      color: rgb(202, 18, 18);
+      font-variant-caps: all-small-caps;
+  }
+  strong:hover{
+    font-size:xx-large;
+    color: rgb(194, 0, 253);
+    font-size: 50px;
+}
